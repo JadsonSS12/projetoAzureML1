@@ -13,7 +13,7 @@ Esse processo foi dividido em 4 partes:
 
 Ao criar o workspace chamado de workspaceDIO, foi me apresentada a opção de criar um notebook, a ferramenta que permite ao usuário executar as rotinas e configurar as atividades por meio de códigos, poupando o trabalho de as gerenciar manualmente, no entanto, escolhi executar as configurações manualmente, uma vez que assim fora exemplificado.  
 
-<img src="inputs/imagens/af.png">
+<img src="inputs/imagens/rg.png">
 
 ## Anexação dos Dados 
 

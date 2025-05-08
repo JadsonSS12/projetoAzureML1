@@ -21,7 +21,7 @@ Em seguida, o arquivo csv contendo as dados de quantidade de sorvetes vendidos, 
 
 <img src="inputs/imagens/dados.png">
 
-Instanciação da Computação
+## Instanciação da Computação
 
 A diante, o cluster e a instância de computação foram realizadas. 
 
